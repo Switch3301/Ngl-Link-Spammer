@@ -54,7 +54,7 @@ class Main():
         proxy = {"https://": "http://" + proxy_format, "http://": "http://" + proxy_format}
         api = 'https://ngl.link/api/submit'
         device_keyy = Main.device_key()
-        payload = f'username={user_name}&question={message}&deviceId={device_keyy}&gameSlug=confessions&referrer='
+        payload = f'username={user_name}&question={message}&deviceId={device_keyy}&gameSlug=&referrer='
         content_total = len(payload)
         headers = {
             'authority': 'ngl.link',
