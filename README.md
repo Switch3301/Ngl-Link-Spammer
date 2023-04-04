@@ -21,6 +21,5 @@ Discord : Switch#8715
 Dont dm me asking for help using codes!
 
 # Video
-<video src='https://cdn.discordapp.com/attachments/1092078760221757560/1092078843449327637/2023-04-02_18-59-40.mp4' width=180/>
 
 Url : https://cdn.discordapp.com/attachments/1092078760221757560/1092078843449327637/2023-04-02_18-59-40.mp4
